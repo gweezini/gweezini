@@ -6,9 +6,9 @@ Student
 
 I am a year 1 student studying Bachelor of Data Engineering at Universiti Teknologi Malaysia.
 
-* 🌍  I'm based in Skudai, Johor
-* ✉️  You can contact me at [ziniiii216@gmail.com](mailto:ziniiii216@gmail.com)
-* 🧠  I'm learning C++
+* 🌍  I'm based in Skudai, Johor
+* ✉️  You can contact me at [ziniiii216@gmail.com](mailto:ziniiii216@gmail.com)
+* 🧠  I'm learning C++
 
 ### Skills
 
@@ -34,6 +34,3 @@ I am a year 1 student studying Bachelor of Data Engineering at Universiti Teknol
 
 <a href="https://github.com/gweezini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gweezini&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## Welcome to my e-portfolio
-
-You can view my e-portfolio by clicking [here](http://127.0.0.1:5500/index.html).
