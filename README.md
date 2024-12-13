@@ -6,9 +6,10 @@ Student
 
 I am a year 1 student studying Bachelor of Data Engineering at Universiti Teknologi Malaysia.
 
-* 🌍  I'm based in Skudai, Johor
+* 🌍  I'm currently a first year student of Computer Science(Data Engineering) at UTM(JOHOR BAHRU campus)
 * ✉️  You can contact me at [ziniiii216@gmail.com](mailto:ziniiii216@gmail.com)
 * 🧠  I'm learning C++
+* 🗣️  Try to develop my speaking and communication skill
 
 ### Skills
 
