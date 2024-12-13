@@ -21,7 +21,7 @@ Student
 
 <p align="left"> <a href="https://www.github.com/gweezini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="left"> <a href="https://www.github.com/gweezini" ></a>
+<p align="left"> <a href="[https://www.github.com/gweezini](https://www.linkedin.com/in/gwee-zi-ni-74b208339/)" ></a>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="32" height="32" /> </picture> </a></p>
 
 
