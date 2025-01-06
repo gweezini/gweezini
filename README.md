@@ -16,9 +16,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # Education
 - **Primary School**: 📍[SJK(C) Chian Kuo](https://maps.app.goo.gl/6oRjrNoYtxHgePxw6)
-- **Secondary School**: 📍SMJK PEI HWA
-- **Pre-University**: 📍Kolej Matrikulasi Johor
-- **University**: 📍Universiti Teknologi Malaysia
+- **Secondary School**: 📍[SMJK PEI HWA](https://maps.app.goo.gl/LMPgZAtVornTgALBA)
+- **Pre-University**: 📍[Kolej Matrikulasi Johor](https://maps.app.goo.gl/7Rd85kwy9bDppb7Z9)
+- **University**: 📍[Universiti Teknologi Malaysia](https://maps.app.goo.gl/1SA76kQMLC6pPB1K7)
 
 
 # Co-curricular Activities & Achievements in 2024
