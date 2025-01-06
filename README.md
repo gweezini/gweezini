@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 # Education
-- **Primary School**: 📍SJK(C) Chian Kuo
+- **Primary School**: 📍[SJK(C) Chian Kuo](https://maps.app.goo.gl/6oRjrNoYtxHgePxw6)
 - **Secondary School**: 📍SMJK PEI HWA
 - **Pre-University**: 📍Kolej Matrikulasi Johor
 - **University**: 📍Universiti Teknologi Malaysia
