@@ -59,6 +59,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Welcome to my e-portfolio
 You can click here to view my portfolio: 
 [Click here:](https://tiszinieporfolio.netlify.app/)
-    <button style="cursor: pointer;">View My Portfolio</button>
 </a>.
 
