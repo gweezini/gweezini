@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   Course: Physical Science  
   Muet: 4.0  
   CGPA: 4.0  
-- **University**: 📍[Universiti Teknologi Malaysia](https://maps.app.goo.gl/1SA76kQMLC6pPB1K7) | 2024-present
+- **University**: 📍[Universiti Teknologi Malaysia](https://maps.app.goo.gl/1SA76kQMLC6pPB1K7) | 2024-present  
   CGPA: 4.0  
 
 
