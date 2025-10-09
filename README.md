@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gwee Zi Ni
 ==================================================================================================================================
 
-
-* 🌍  I am currently a first year student,studying Bachelor of Data Engineering at Universiti Teknologi Malaysia.
+# About me
+* 🌍  Course:Bachelor of Data Engineering at Universiti Teknologi Malaysia.
 * ✉️  You can contact me at [ziniiii216@gmail.com](mailto:ziniiii216@gmail.com)
 * 🧠  I'm learning C++
 * 🗣️  Developing my speaking and communication skill
