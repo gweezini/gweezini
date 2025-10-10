@@ -22,13 +22,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 |——2018-2022：**Secondary School: 📍[SMJK PEI HWA](https://maps.app.goo.gl/LMPgZAtVornTgALBA)**  
 |  
 |——2023-2024: **Pre-University: 📍[Kolej Matrikulasi Johor](https://maps.app.goo.gl/7Rd85kwy9bDppb7Z9)**  
-|  * **Muet: 4.0**   
-|  * **Course: Physical Science**  
-|  * **Language used: Java**  
-|  * **Tools: Microsoft Access**  
+|             * **Muet: 4.0**   
+|             * **Course: Physical Science**  
+|             * **Language used: Java**  
+|             * **Tools: Microsoft Access**  
 |  
 |——2024-present: **University: 📍[Universiti Teknologi Malaysia](https://maps.app.goo.gl/1SA76kQMLC6pPB1K7)**  
-|  * **Language used: C++**  
+|             = * **Language used: C++**  
 
 
 # Co-curricular Activities & Achievements in 2024
