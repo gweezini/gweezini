@@ -15,16 +15,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-# Education
-**Primary School: 📍[SJK(C) Chian Kuo](https://maps.app.goo.gl/6oRjrNoYtxHgePxw6) | 2012-2017**  
-**Secondary School: 📍[SMJK PEI HWA](https://maps.app.goo.gl/LMPgZAtVornTgALBA) | 2018-2022**   
-**Pre-University: 📍[Kolej Matrikulasi Johor](https://maps.app.goo.gl/7Rd85kwy9bDppb7Z9) | 2023-2024**  
-* **Muet: 4.0**   
-* **Course: Physical Science**  
-* **Language used: Java**  
-* **Tools: Microsoft Access**  
-**University: 📍[Universiti Teknologi Malaysia](https://maps.app.goo.gl/1SA76kQMLC6pPB1K7) | 2024-present**  
-* **Language used: C++**  
+# Education  
+|  
+|——2012-2017：**Primary School: 📍[SJK(C) Chian Kuo](https://maps.app.goo.gl/6oRjrNoYtxHgePxw6)**  
+|  
+|——2018-2022：**Secondary School: 📍[SMJK PEI HWA](https://maps.app.goo.gl/LMPgZAtVornTgALBA)**  
+|  
+|——2023-2024: **Pre-University: 📍[Kolej Matrikulasi Johor](https://maps.app.goo.gl/7Rd85kwy9bDppb7Z9)**  
+|  * **Muet: 4.0**   
+|  * **Course: Physical Science**  
+|  * **Language used: Java**  
+|  * **Tools: Microsoft Access**  
+|  
+|——2024-present: **University: 📍[Universiti Teknologi Malaysia](https://maps.app.goo.gl/1SA76kQMLC6pPB1K7)**  
+|  * **Language used: C++**  
 
 
 # Co-curricular Activities & Achievements in 2024
