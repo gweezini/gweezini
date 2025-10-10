@@ -34,10 +34,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Activities & Achievements That Shaped My Journey  
 | Year | Activities & Achievements |
 |------|-----------------------------|  
-|2018|OUTREACH Track&Feild Under 11&14 MSSD-2nd Place|
-|------|-----------------------------|
-|2018|OUTREACH Track&Field Under 11&14 MSSJ-Participant|
-|------|-----------------------------|
+|2018|Track&Feild MSSD: High Jump|   
+|2018|OUTREACH Track&Feild Under 11&14 MSSD: High Jump|  
+|2018|OUTREACH Track&Field Under 11&14 MSSJ: High Jump| 
+|2019|Basketball MSSD|
+|2019|Track&Feild MSSD: High Jump|  
+|2019|OUTREACH Track&Field Under 11&14 MSSD: High Jump& Long Jump|  
+|2019|OUTREACH Track&Field Under 11&14 MSSJ: High Jump& Long Jump|  
+|2020|Track&Feild MSSD: High Jump & Long Jump& Triple Jump|  
+|2021|Anti-Dengue Video Competition- State Level|  
+|2021|Photography work showcased at the Kuala Lumpur Photography Festival(KLPF)|  
+|2021|Participated in Malaysia Future Leaders School(MFLS)| 
+|2022|Committee Member, Basketball Club|   
+|2022|Secretary, Crime Prevention Club| 
+
+
 
 - 🎬 Acting and Editing Movie Competition | 2nd place
 - 🏐 Volleyball Game
