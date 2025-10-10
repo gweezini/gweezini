@@ -39,9 +39,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Photography Work Showcased at Kuala Lumpur Photography Festival (KLPF) (2021)
 - Malaysia Future Leaders School (MFLS) Participant (2021)
 - Leadership Roles:
- 1. Secretary – Crime Prevention Club
- 2. Committee Member – Basketball & Photography Clubs
- 3. Assistant Secretary – Athletics Team
+1. Secretary – Crime Prevention Club
+2. Committee Member – Basketball & Photography Clubs
+3. Assistant Secretary – Athletics Team
 
 
 ### Socials
