@@ -46,7 +46,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 |2021|Photography work showcased at the Kuala Lumpur Photography Festival(KLPF)|  
 |2021|Participated in Malaysia Future Leaders School(MFLS)| 
 |2022|Committee Member, Basketball Club|   
-|2022|Secretary, Crime Prevention Club| 
+|2022|Secretary, Crime Prevention Club|  
+|2022|Committee Member, Photography Club|  
+|2022|Assistant Secretary, Athletics Team|  
+|2023|Karnival Kokurikulum Matrikulasi (KAKOM)|  
+|2024|Volleyball match|  
+|2024|Netball match|  
+|2024|KIE Inovation Competition| 
+|2024|UTM Games: Long Jump& 4x100m|
+|2024|Participated in Youth Speak Forum (YSF) organized by AIESEC|  
+|2025|CodeRush 2025 Crew – Sponsorship Unit|  
 
 
 
