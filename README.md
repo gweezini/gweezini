@@ -32,39 +32,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 # Activities & Achievements That Shaped My Journey  
-| Year | Activities & Achievements |
-|------|-----------------------------|  
-|2018|Track&Feild MSSD: High Jump|   
-|2018|OUTREACH Track&Feild Under 11&14 MSSD: High Jump|  
-|2018|OUTREACH Track&Field Under 11&14 MSSJ: High Jump| 
-|2019|Basketball MSSD|
-|2019|Track&Feild MSSD: High Jump|  
-|2019|OUTREACH Track&Field Under 11&14 MSSD: High Jump& Long Jump|  
-|2019|OUTREACH Track&Field Under 11&14 MSSJ: High Jump& Long Jump|  
-|2020|Track&Feild MSSD: High Jump & Long Jump& Triple Jump|  
-|2021|Anti-Dengue Video Competition- State Level|  
-|2021|Photography work showcased at the Kuala Lumpur Photography Festival(KLPF)|  
-|2021|Participated in Malaysia Future Leaders School(MFLS)| 
-|2022|Committee Member, Basketball Club|   
-|2022|Secretary, Crime Prevention Club|  
-|2022|Committee Member, Photography Club|  
-|2022|Assistant Secretary, Athletics Team|  
-|2023|Karnival Kokurikulum Matrikulasi (KAKOM)|  
-|2024|Volleyball match|  
-|2024|Netball match|  
-|2024|KIE Inovation Competition| 
-|2024|UTM Games: Long Jump& 4x100m|
-|2024|Participated in Youth Speak Forum (YSF) organized by AIESEC|  
-|2025|CodeRush 2025 Crew – Sponsorship Unit|  
+###School Years (2018–2022)
+- Track & Field (MSSD & MSSJ) – Competed in High Jump, Long Jump & Triple Jump (2018–2020)
+- Basketball MSSD (2019)
+- Anti-Dengue Video Competition – State Level (2021)
+- Photography Work Showcased at Kuala Lumpur Photography Festival (KLPF) (2021)
+- Malaysia Future Leaders School (MFLS) Participant (2021)
+- Leadership Roles:
+  1. Secretary – Crime Prevention Club
+ 2. Committee Member – Basketball & Photography Clubs
+ 3. Assistant Secretary – Athletics Team
 
 
-
-- 🎬 Acting and Editing Movie Competition | 2nd place
-- 🏐 Volleyball Game
-- 🤾‍♂️ Netball Game
-- 💡 Participated in KMJ Innovation Expo 2024
-- 🏃‍♀️ UTM Games | 2nd place & 3rd place
-- 🗣️ Participated in Youth Speak Forum (YSF) organized by AIESEC
 ### Socials
 
 <p align="left">
