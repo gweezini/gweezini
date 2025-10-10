@@ -31,7 +31,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Language used: C++  
 
 
-# Co-curricular Activities & Achievements in 2024
+# Activities & Achievements That Shaped My Journey  
+| Year | Activities & Achievements |
+|------|-----------------------------|
+
 - 🎬 Acting and Editing Movie Competition | 2nd place
 - 🏐 Volleyball Game
 - 🤾‍♂️ Netball Game
