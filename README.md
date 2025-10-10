@@ -38,10 +38,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Anti-Dengue Video Competition – State Level (2021)
 - Photography Work Showcased at Kuala Lumpur Photography Festival (KLPF) (2021)
 - Malaysia Future Leaders School (MFLS) Participant (2021)
-- Leadership Roles:
-1. Secretary – Crime Prevention Club
-2. Committee Member – Basketball & Photography Clubs
-3. Assistant Secretary – Athletics Team
+- Leadership Roles:  
+1. Secretary – Crime Prevention Club  
+2. Committee Member – Basketball & Photography Clubs  
+3. Assistant Secretary – Athletics Team  
+
+### Pre-University (2023–2024)  
+- Karnival Kokurikulum Matrikulasi (KAKOM) Participant  
+- Volleyball & Netball Matches (2024)  
+- KMJ Innovation Expo 2024 (KIE Innovation Competition)
+
+### University Life (2025–Present)
+- UTM Games: 2nd Place (Long Jump) & 3rd Place (4×100m Relay)  
+- Youth Speak Forum (YSF) by AIESEC
+- Crew Member – CodeRush 2025 (Sponsorship Unit)
 
 
 ### Socials
