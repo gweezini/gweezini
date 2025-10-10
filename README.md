@@ -48,7 +48,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
 </picture> 
 </a>
-&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/gwee-zi-ni-74b208339/" target="_blank" rel="noreferrer"> 
 <picture> 
 &nbsp;&nbsp;&nbsp;
