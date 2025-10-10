@@ -32,7 +32,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 # Activities & Achievements That Shaped My Journey  
-###School Years (2018–2022)
+### School Years (2018–2022)
 - Track & Field (MSSD & MSSJ) – Competed in High Jump, Long Jump & Triple Jump (2018–2020)
 - Basketball MSSD (2019)
 - Anti-Dengue Video Competition – State Level (2021)
