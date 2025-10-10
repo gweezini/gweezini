@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Pre-University: 📍[Kolej Matrikulasi Johor](https://maps.app.goo.gl/7Rd85kwy9bDppb7Z9) | 2023-2024**  
 > **Muet: 4.0**   
 > **Course: Physical Science**  
-> **Language used: Java**
+> **Language used: Java**  
 > **Tools: Microsoft Access**  
 - **University: 📍[Universiti Teknologi Malaysia](https://maps.app.goo.gl/1SA76kQMLC6pPB1K7) | 2024-present**  
 > **Language used: C++**  
