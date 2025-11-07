@@ -41,10 +41,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Volleyball & Netball Matches (2024)  
 - KMJ Innovation Expo 2024 (KIE Innovation Competition)
 
-### University Life (2025–Present)
+### University Life (2024–Present)
+#### Year 1
 - UTM Games: 2nd Place (Long Jump) & 3rd Place (100m)  
 - Youth Speak Forum (YSF) by AIESEC
 - Crew Member – CodeRush 2025 (Sponsorship Unit)
+ #### Year 2
+- Club: Chinese Orchestra
+- Competiton: UMPSA x HUAWEI AppGallery Mobile App Competition
+- TechBridge : UTMxCHINA Innovation Exchange 2026
 
 
 ### Socials
