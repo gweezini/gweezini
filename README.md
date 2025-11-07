@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * Bachelor of Data Engineering at Universiti Teknologi Malaysia
 * Passionate about sports
 * Contact me via [ziniiii216@gmail.com](mailto:ziniiii216@gmail.com)
-* Currently learning C++
+* Currently learning C++, HTML, PHP
 * Developing my speaking and communication skill
 
 # Education  
