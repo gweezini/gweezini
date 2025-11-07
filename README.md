@@ -50,7 +50,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  #### Year 2
 - Club: Chinese Orchestra
 - Competiton: UMPSA x HUAWEI AppGallery Mobile App Competition
-- TechBridge : UTMxCHINA Innovation Exchange 2026
+- TechBridge : UTMxCHINA Innovation Exchange 2026-Committee Member
 
 
 ### Socials
