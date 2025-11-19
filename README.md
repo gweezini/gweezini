@@ -51,8 +51,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Competiton: UMPSA x HUAWEI AppGallery Mobile App Competition
 - TechBridge : UTMxCHINA Innovation Exchange 2026-Committee Member  
 
-#### Total activities recorded in the UTM Student Portal: 34  
-
 
 ### Socials
 
