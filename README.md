@@ -49,7 +49,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Crew Member – CodeRush 2025 (Sponsorship Unit)
  #### Year 2
 - Competiton: UMPSA x HUAWEI AppGallery Mobile App Competition
-- TechBridge : UTMxCHINA Innovation Exchange 2026-Committee Member  
+- TechBridge : UTMxCHINA Innovation Exchange 2026-Committee Member
+- FunRun2026 - Committee Member  
 
 
 ### Socials
